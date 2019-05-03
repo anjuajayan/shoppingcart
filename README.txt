@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/miroot/pen/qwIgC.
+Project : Magazine cart
 
- Does this need explanation?
+Description: It is an e-commerce project deals with magazines,newspapers and articles . It has admin side and user side . Admin can add and update products. User can login to the site for purchasing products. 
+Frontend : html , css , bootstrap , javascript
+Backend : php , mysqli
